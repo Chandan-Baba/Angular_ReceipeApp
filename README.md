@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RecepieApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
@@ -29,4 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Angular_ReceipeApp
 This is angular recipe app
->>>>>>> df8a33a7677f7c35e6fb7ef519164aa751f8a617
+ 
+df8a33a7677f7c35e6fb7ef519164aa751f8a617
